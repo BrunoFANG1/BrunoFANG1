@@ -2,7 +2,7 @@
 - 👀 I’m interested in the state-of-art technology
 - 💞️ I’m looking to collaborate on self-learning in coding skills
 - 📫 How to reach me ? Feel free to send me emails at 1324441676@qq.com
-- Love the world and contribute my effot to make the world a better place
+- Love the world and contribute my effort to make the world a better place
 
 <!---
 BrunoFANG1/BrunoFANG1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
